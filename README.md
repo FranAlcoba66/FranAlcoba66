@@ -1,6 +1,6 @@
 # 🏄‍♂️ Francisco Alcoba
 
-**`Digital Craftsman (Developer)`**
+**`Digital Craftsman (Developer,Musican, Trader)`**
 ---
 
 ### 🧰 Languages and Tools
