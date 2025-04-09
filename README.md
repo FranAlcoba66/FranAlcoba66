@@ -1,6 +1,6 @@
 # 🐺 Francisco Alcoba
 
-**`Digital Craftsman (Developer,Musican, Trader)`**
+**`Digital Craftsman (Developer, Musican, Trader)`**
 ---
 I'm an indie full-stack developer with a strong artistic side, crafting digital experiences from scratch. I'm passionate about bringing ideas to life—blending the logic of code with creative intuition. Every line I write and every design I imagine has a purpose: to solve real-world problems while telling a story. I'm always learning, unafraid to experiment, and I strive to make every project a reflection of how I see the digital world.
 
