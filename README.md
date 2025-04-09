@@ -11,7 +11,6 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Vue" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-plain-wordmark.svg" />          
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -21,32 +20,4 @@
 
 #
 
-### 📺 Latest YouTube Videos
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![C# is Java done right](https://ytcards.demolab.com/?id=Kj22GriXU9s&title=C%23+is+Java+done+right&lang=en&timestamp=1744210826&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231 "C# is Java done right")](https://www.youtube.com/watch?v=Kj22GriXU9s)
-[![o3-mini refuses to code](https://ytcards.demolab.com/?id=lZs2iuA6Tgw&title=o3-mini+refuses+to+code&lang=en&timestamp=1744118477&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=47 "o3-mini refuses to code")](https://www.youtube.com/watch?v=lZs2iuA6Tgw)
-[![I Found the Best AI for Coding](https://ytcards.demolab.com/?id=KbbXjbX2Hec&title=I+Found+the+Best+AI+for+Coding&lang=en&timestamp=1744039808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=908 "I Found the Best AI for Coding")](https://www.youtube.com/watch?v=KbbXjbX2Hec)
-[![How Software Engineers Actually Use AI](https://ytcards.demolab.com/?id=jvArNnlaf5g&title=How+Software+Engineers+Actually+Use+AI&lang=en&timestamp=1743695103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1411 "How Software Engineers Actually Use AI")](https://www.youtube.com/watch?v=jvArNnlaf5g)
-[!["i no longer think you should learn to code." - AI CEO](https://ytcards.demolab.com/?id=Y5NBdif7vpQ&title=%22i+no+longer+think+you+should+learn+to+code.%22+-+AI+CEO&lang=en&timestamp=1743518702&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=724 "\"i no longer think you should learn to code.\" - AI CEO")](https://www.youtube.com/watch?v=Y5NBdif7vpQ)
-[![25% of Programming Jobs are Gone](https://ytcards.demolab.com/?id=4jP9O_meOBo&title=25%25+of+Programming+Jobs+are+Gone&lang=en&timestamp=1743439500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=400 "25% of Programming Jobs are Gone")](https://www.youtube.com/watch?v=4jP9O_meOBo)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
-
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
-<!--
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
--->
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
