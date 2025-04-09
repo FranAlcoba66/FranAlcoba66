@@ -1,78 +1,69 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
+# 🏄‍♂️ Forrest Knight
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-### 👨🏻‍💻 &nbsp;About Me
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+   <p align="left">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/c/fknight">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
+---
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+### 🧰 Languages and Tools
 
-### 🛠 &nbsp;Tech Stack
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+#
 
-### 🗃 &nbsp;Databases
+### 📺 Latest YouTube Videos
 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
+<!-- BEGIN YOUTUBE-CARDS -->
+[![C# is Java done right](https://ytcards.demolab.com/?id=Kj22GriXU9s&title=C%23+is+Java+done+right&lang=en&timestamp=1744210826&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231 "C# is Java done right")](https://www.youtube.com/watch?v=Kj22GriXU9s)
+[![o3-mini refuses to code](https://ytcards.demolab.com/?id=lZs2iuA6Tgw&title=o3-mini+refuses+to+code&lang=en&timestamp=1744118477&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=47 "o3-mini refuses to code")](https://www.youtube.com/watch?v=lZs2iuA6Tgw)
+[![I Found the Best AI for Coding](https://ytcards.demolab.com/?id=KbbXjbX2Hec&title=I+Found+the+Best+AI+for+Coding&lang=en&timestamp=1744039808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=908 "I Found the Best AI for Coding")](https://www.youtube.com/watch?v=KbbXjbX2Hec)
+[![How Software Engineers Actually Use AI](https://ytcards.demolab.com/?id=jvArNnlaf5g&title=How+Software+Engineers+Actually+Use+AI&lang=en&timestamp=1743695103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1411 "How Software Engineers Actually Use AI")](https://www.youtube.com/watch?v=jvArNnlaf5g)
+[!["i no longer think you should learn to code." - AI CEO](https://ytcards.demolab.com/?id=Y5NBdif7vpQ&title=%22i+no+longer+think+you+should+learn+to+code.%22+-+AI+CEO&lang=en&timestamp=1743518702&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=724 "\"i no longer think you should learn to code.\" - AI CEO")](https://www.youtube.com/watch?v=Y5NBdif7vpQ)
+[![25% of Programming Jobs are Gone](https://ytcards.demolab.com/?id=4jP9O_meOBo&title=25%25+of+Programming+Jobs+are+Gone&lang=en&timestamp=1743439500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=400 "25% of Programming Jobs are Gone")](https://www.youtube.com/watch?v=4jP9O_meOBo)
+<!-- END YOUTUBE-CARDS -->
 
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
-### 🧰 &nbsp;Version Controll & Tools 
+#
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)&nbsp;
-![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)&nbsp;
+### 📊 Stats
 
-### ⚙️ &nbsp;GitHub Analytics
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
 
-<p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
+#
+<!--
+<details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+-->
+[website]: https://fkcodes.com
+[youtube]: https://youtube.com/fknight
