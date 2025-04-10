@@ -32,18 +32,13 @@
 
 ## 📊 GitHub Stats
 
-<img align="right" alt="Coding Wolf" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" />
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=FranAlcoba66&show_icons=true&theme=dark&locale=en" alt="GitHub Stats"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FranAlcoba66&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FranAlcoba66&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" height="170"/>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FranAlcoba66&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages"/>
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranAlcoba66&theme=dark" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranAlcoba66&theme=dark" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
@@ -52,9 +47,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-adrian-alcoba/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franz_alcoba/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciscoadrianalcoba@gmail.com)
 
 ---
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=FranAlcoba66&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
