@@ -1,6 +1,6 @@
 # 🐺 Francisco Alcoba
 
-**`Digital Craftsman (Developer | Musician | Trader)`**
+**`Digital Craftsman (Developer)`**
 
 ---
 
